@@ -1,0 +1,7 @@
+data/org.profe.EDatos.desktop.in
+data/org.profe.EDatos.appdata.xml.in
+data/org.profe.EDatos.gschema.xml
+src/edatos-window.ui
+src/main.c
+src/edatos-window.c
+
