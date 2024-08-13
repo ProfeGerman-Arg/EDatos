@@ -1,0 +1,1 @@
+Seleccionar la opción para clonar el repositorio https://github.com/ProfeGerman-Arg/EDatos.git y copiarlo. En Builder IDE clonar en el directorio /home/usuario/Proyectos/Builder (usuario es la cuenta del SO GNU/LINUX, por defecto Builder ofrece el directorio /home/german/Proyectos), la carpeta /EDatos con los archivos se creará automáticamente al clonar. 
